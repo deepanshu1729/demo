@@ -1,3 +1,4 @@
 # demo
-this is my first repository
-author-deepanshu mehra
+This is my first repository.
+<br>
+Author-deepanshu mehra
